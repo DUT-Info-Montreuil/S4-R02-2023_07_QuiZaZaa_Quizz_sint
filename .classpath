@@ -2,5 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/S4-R02-2023_07_QuiZaZaa_Joueur_sme"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/home/etudiants/info/nfenollosa/Téléchargements/objenesis-3.3.jar"/>
+	<classpathentry kind="lib" path="/home/etudiants/info/nfenollosa/Téléchargements/mockito-junit-jupiter-4.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/etudiants/info/nfenollosa/Téléchargements/mockito-core-4.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/etudiants/info/nfenollosa/Téléchargements/byte-buddy-agent-1.12.19.jar"/>
+	<classpathentry kind="lib" path="/home/etudiants/info/nfenollosa/Téléchargements/byte-buddy-1.12.19.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
